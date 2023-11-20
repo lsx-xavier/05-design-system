@@ -24,7 +24,7 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: lZiiLJhsN1aSgjkiLh08dmFC
-          TURBO_TEM: lsxavier-team
+          TURBO_TEAM: lsxavier-team
 
       - name: Deploy Storybook
         working-directory: ./packages/docs
