@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@xavier-ignite-ui/tokens'
 
 export const {
   styled,
