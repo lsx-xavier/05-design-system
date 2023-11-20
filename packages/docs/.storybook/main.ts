@@ -17,16 +17,13 @@ const config: StorybookConfig = {
     getAbsolutePath("@storybook/addon-onboarding"),
     getAbsolutePath("@storybook/addon-interactions"),
     getAbsolutePath("@storybook/addon-a11y"),
-    getAbsolutePath("@storybook/blocks"),
   ],
   framework: {
     name: getAbsolutePath("@storybook/react-vite"),
     options: {},
   },
   docs: {
-    autodocs: "tag",
-    defaultName: "Documentation",
-    docsMode: false,
+    autodocs: true,
   },
   previewHead: (head) => `
     ${head}
