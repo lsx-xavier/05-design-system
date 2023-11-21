@@ -1,6 +1,6 @@
 {
   "name": "@xavier-ignite-ui/tokens",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@xavier-ignite-ui/ts-config":  "*",
-    "@xavier-ignite-ui/eslint-config":  "*",
+    "@xavier-ignite-ui/ts-config": "*",
+    "@xavier-ignite-ui/eslint-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   }
