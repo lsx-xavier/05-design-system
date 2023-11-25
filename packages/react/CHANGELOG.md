@@ -1,5 +1,11 @@
 # @xavier-ignite-ui/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Add tooltip and toast
+
 ## 2.0.1
 
 ### Patch Changes
